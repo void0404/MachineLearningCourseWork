@@ -12,7 +12,7 @@
 
 1.2下载花卉数据集
 
-![image-20230226153452561](./ypora-user-images/image-20230226153452561.png)
+![image-20230226153452561](./typora-user-images/image-20230226153452561.png)
 
 2.开始训练
 
