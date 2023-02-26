@@ -8,7 +8,7 @@
 
 1. 创建华为云存储桶
 
-![image-20230226152654809](typora-user-images\image-20230226152654809.png)
+![image-20230226152654809](./typora-user-images/image-20230226152654809.png)
 
 1.2下载花卉数据集
 
